@@ -53,7 +53,6 @@ class EncryptorSt(Encryptor):
 if __name__ == "__main__":
     e = EncryptorSt(23, 17)
     ee = exit
-    t = test
     en, de = e.fGenFuncs(200, 14)
     e1, e2 = e.fMakePair(23, 17)
     msg = "Quick brown fox jumped over the lazy dog!"
