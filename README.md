@@ -1,5 +1,7 @@
 # pyTextEncryption
-### Simple not performance oriented encryption statefull (perhaps safer) and stateless version. <br>
+### Simple not performance oriented encryption statefull (perhaps safer) and stateless version.
+### I DO NOT TAKE RESPONSIBILITY FOR FAILURE OF ENCRYPTION (if these function can be called this?)
+### This is amature code.<br>
 <br>
 
 <p>Encryptor:</p>
