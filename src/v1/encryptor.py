@@ -103,7 +103,6 @@ class Encryptor:
 if __name__ == "__main__":
     e = Encryptor()
     ee = exit
-    t = test
     en, de = e.fGenFuncs(200, 14)
 
 
