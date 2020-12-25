@@ -3,9 +3,9 @@ Simple amature slow encryption. Statefull (perhaps safer) and stateless version.
 Use it only if you have nothing better on your hands. <br>
 I supose there is allready such an algorithm, if you are aware of what it is please tell me and I will edit it in this README. <br>
 <br>
-Slow, 11100 characters on avarage, version 2:
- - encrypted in 0.0057235 sec. <br>
- - decrypted in 0.0064435 sec. <br>
+Slow, 11100 characters. For version 2:
+ - encrypted in 0.0057235 sec. on avrg. <br>
+ - decrypted in 0.0064435 sec. on avrg. <br>
 
 ### Generic explenation how it works.
 First a simple map is created: `{'a':'n', 'b':'\n', 'c':')' ... 'Z':'0' }` and a list of 'keys': `[-13, 50, 21, 43, -98 ... ]`, which are vectors by which the map will be moved before typing every letter. Keys are a list of one dimenison vectors.<br>
